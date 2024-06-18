@@ -87,12 +87,5 @@ Ensure you have the following software installed:
 - **Entity Framework Core**: An object-relational mapper (ORM) for .NET that enables developers to work with a database using .NET objects.
 - **SQL Server**: A relational database management system from Microsoft.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Entity Framework Documentation](https://docs.microsoft.com/en-us/ef/)
-- [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
 
